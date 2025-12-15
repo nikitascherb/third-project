@@ -14,8 +14,3 @@
 ### Описание
 
 Данное приложение позволяет "выглянуть" из окон самых разных городов мира.
-
-## Автор
-
-- Github - [Mike Beloborodov](https://github.com/MikeBeloborodov)
-- Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
