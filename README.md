@@ -1,5 +1,5 @@
+https://github.com/nikitascherb/third-project
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
-https://github.com/nikitascherb/third-project.git
 ## Оглавление
 
 - [Скриншот](#скриншот)
