@@ -21,7 +21,3 @@ https://github.com/MikeBeloborodov/posmotri_v_okno
 
 - Github - [Mike Beloborodov](https://github.com/MikeBeloborodov)
 - Frontend Mentor - [@MikeBeloborodov](https://www.frontendmentor.io/profile/MikeBeloborodov)
-
-## Благодарность
-
-Благодарю команду Яндекс Практикум за предоставление дизайна и уроков!
